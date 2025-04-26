@@ -39,7 +39,7 @@ ALWAYS
 	 *    Convert strings to UTF-8 for BGEE/BG2EE                                                    *
 	 *    No exception, everything needs to be converted                                             *
 	 * --------------------------------------------------------------------------------------------- */
-		ACTION_DEFINE_ARRAY hs#noconvert BEGIN END
+		ACTION_DEFINE_ARRAY hs#noconvert BEGIN install END
 		// any tra files used in LANGUAGE need to be reloaded after UTF-8 conversion
 		ACTION_DEFINE_ARRAY hs#reload BEGIN setup swords END
 
@@ -87,6 +87,10 @@ LANGUAGE ~Italiano (traduzione di ilot)~
          ~swordap/lang/italian/setup.tra~
          ~swordap/lang/italian/swords.tra~
 
+LANGUAGE ~Simplified Chinese (translation by Merzbau)~
+         ~schinese~
+         ~swordap/lang/schinese/install.tra~
+         ~swordap/lang/schinese/swords.tra~
 
 /* =============================== *
  *    Improved HaerDalis Swords    *
