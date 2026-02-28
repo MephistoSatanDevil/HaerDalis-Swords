@@ -1,19 +1,19 @@
 @101 = ~Lame du chaos~
 @111 = ~Lame du chaos +4~
-@102 = ~Chaos est une épée courte +4 utilisable seulement par les tieffelins. À chaque fois qu'elle touche un adversaire, il perd 2 points de dextérité (pour 30 secondes). Haer'Dalis se sert de cette épée en conjonction avec Entropie, ce qui fait de lui un adversaire redoutable.
+@102 = ~Chaos est une Ã©pÃ©e courte +4 utilisable seulement par les tieffelins. Ã€ chaque fois qu'elle touche un adversaire, il perd 2 points de dextÃ©ritÃ© (pour 30 secondes). Haer'Dalis se sert de cette Ã©pÃ©e en conjonction avec Entropie, ce qui fait de lui un adversaire redoutable.
 
-PARAMÈTRES :
+PARAMÃˆTRES :
 
-Capacité de combat:
-- la cible perd deux points de Dextérité pendant 30 secondes.
+CapacitÃ© de combat:
+- la cible perd deux points de DextÃ©ritÃ© pendant 30 secondes.
 
 TACO : +4
-Dégâts : 1d6 +4
-Type de dégâts : perforant
+DÃ©gÃ¢ts : 1d6 +4
+Type de dÃ©gÃ¢ts : perforant
 Facteur de vitesse : 0
-Type de compétence : épée courte
-Type : arme à 1 main
-Nécessite : 4 en Force
+Type de compÃ©tence : Ã©pÃ©e courte
+Type : arme Ã  1 main
+NÃ©cessite : 4 en Force
 Poids : 2
 
 Utilisable par :
@@ -21,20 +21,20 @@ Utilisable par :
 
 @103 = ~Entropie~
 @113 = ~Entropie +4~
-@104 = ~Cette lame +4 de couleur verte est l'une des armes préférées de Haer'Dalis. Cette épée courte inflige trois points de dégâts supplémentaires dus au poison si la victime rate son jet de sauvegarde. Cette lame ne peut être utilisée que par un tieffelin.
+@104 = ~Cette lame +4 de couleur verte est l'une des armes prÃ©fÃ©rÃ©es de Haer'Dalis. Cette Ã©pÃ©e courte inflige trois points de dÃ©gÃ¢ts supplÃ©mentaires dus au poison si la victime rate son jet de sauvegarde. Cette lame ne peut Ãªtre utilisÃ©e que par un tieffelin.
 
-PARAMÈTRES :
+PARAMÃˆTRES :
 
-Capacité de combat :
-- 3 points de dégâts de poison si jet de sauvegarde raté.
+CapacitÃ© de combat :
+- 3 points de dÃ©gÃ¢ts de poison si jet de sauvegarde ratÃ©.
 
 TACO : +4
-Dégâts : 1d6 +4
-Type de dégâts : perforant
+DÃ©gÃ¢ts : 1d6 +4
+Type de dÃ©gÃ¢ts : perforant
 Facteur de vitesse : 0
-Type de compétence : épée courte
-Type : arme à 1 main
-Nécessite : 4 en Force
+Type de compÃ©tence : Ã©pÃ©e courte
+Type : arme Ã  1 main
+NÃ©cessite : 4 en Force
 Poids : 2
 
 Utilisable par :

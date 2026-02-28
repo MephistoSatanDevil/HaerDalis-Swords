@@ -10,7 +10,7 @@ Per guadagnare tempo puoi scegliere quello che desideri fare a livello generale 
 "
 @-1002= "Cosa desideri fare di tutti componenti che NON sono ancora installati?
 [I]nstallarli, [S]alta, dom[A]nda per ciascuno? "
-@-1003= " Cosa desideri fare di tutti componenti che sono GI¿ installati?
+@-1003= " Cosa desideri fare di tutti componenti che sono GI√Ä installati?
 [R]einstallarli, rim[U]overli, [S]alta, dem[A]nda per ciascuno? "
 
 @-1004= "PER FAVORE, invia il file per e-mail"
@@ -33,7 +33,7 @@ Per guadagnare tempo puoi scegliere quello che desideri fare a livello generale 
 @-1015= "VECCHIA INSTALLAZIONE RIMOSSA CON SUCCESSO"
 
 @-1016= "Installazione in corso"
-@-1017= "ERRORE durante líinstallazione di ["
+@-1017= "ERRORE durante l‚Äôinstallazione di ["
 @-1018= "], ritorno allo stato precedente"
 @-1019= "INSTALLATION RIUSCITA"
 @-1020= "Saltare"
@@ -87,9 +87,9 @@ Se in seguito vorrai scegliere una lingua diversa, devi modificare il file weidu
 @-1054= "Ucraino"
 
 @-1060= "
-Questo gioco Ë disponibile in diverse lingue ma WeiDU non sa quale lingua di gioco Ë stata utilizzata quando Ë stato installato questo mod.
+Questo gioco √® disponibile in diverse lingue ma WeiDU non sa quale lingua di gioco √® stata utilizzata quando √® stato installato questo mod.
 
-Indica quale lingua di gioco Ë stata utilizzata quando hai installato questo mod. La tua selezione non verr‡ salvata e verr‡ utilizzata solo fino alla chiusura di WeiDU.
+Indica quale lingua di gioco √® stata utilizzata quando hai installato questo mod. La tua selezione non verr√† salvata e verr√† utilizzata solo fino alla chiusura di WeiDU.
 "
 @-1061= "
 Utilizzazione di"

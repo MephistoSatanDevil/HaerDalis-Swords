@@ -1,16 +1,16 @@
 @101 = ~Lama del Caos~
 @111 = ~Lama del Caos +4~
-@102 = ~Questa Lama del Caos Ë una spada corta +4 che puÚ essere usata solo dai Tiefling. Ogni volta che colpisce un avversario, gli sottrae 2 punti di Destrezza per  5 round. Haer'Dalis preferisce usare la Lama del Caos con la sua lama partner, líEntropia. Quando impugna entrambe le armi, Haer'Dalis Ë un temibile avversario.
+@102 = ~Questa Lama del Caos √® una spada corta +4 che pu√≤ essere usata solo dai Tiefling. Ogni volta che colpisce un avversario, gli sottrae 2 punti di Destrezza per  5 round. Haer'Dalis preferisce usare la Lama del Caos con la sua lama partner, l‚ÄôEntropia. Quando impugna entrambe le armi, Haer'Dalis √® un temibile avversario.
 
 STATISTICHE:
 
-Abilit‡ di combattimento:
+Abilit√† di combattimento:
 - Se il bersaglio viene colpito perde 2 punti alla Destrezza per ogni colpo per 5 round
 
 THACO: +4
 Danno: 1d6+4
 Tipo di danno: pierforante
-Fattore velocit‡: 0
+Fattore velocit√†: 0
 Tipo di competenza: Spada Corta
 Tipo: Ad una mano
 Richiede:
@@ -23,17 +23,17 @@ Utilizzabile da:
 
 @103 = ~Entropia~
 @113 = ~Entropia +4~
-@104 = ~Quest'arma +4 di acciaio verde dell'Abisso Ë una delle preferite di Haer'Dalis. Questa spada corta Ë in grado di infliggere 3 punti di danni da veleno addizionali se il bersaglio fallisce il suo tiro salvezza. Questa lama puÚ essere utilizzata solo dai tiefling.
+@104 = ~Quest'arma +4 di acciaio verde dell'Abisso √® una delle preferite di Haer'Dalis. Questa spada corta √® in grado di infliggere 3 punti di danni da veleno addizionali se il bersaglio fallisce il suo tiro salvezza. Questa lama pu√≤ essere utilizzata solo dai tiefling.
 
 STATISTICHE:
 
-Abilit‡ di combattimento:
+Abilit√† di combattimento:
 - Se il bersaglio viene colpito e fallisce il suo tiro salvezza subisce 3 punti di danni da veleno
 
 THACO: +4
 Danno: 1d6+4
 Tipo di danno: perforante
-Fattore velocit‡: 0
+Fattore velocit√†: 0
 Tipo di competenza: Spada Corta
 Tipo: ad una mano
 Richiede:

@@ -1,17 +1,17 @@
 @101 = ~Chaosklinge~
 @111 = ~Chaosklinge +4~
-@102 = ~Die Chaosklinge ist ein Kurzschwert +4, das nur von Haer'Dalis verwendet werden kann. Jedes Mal, wenn die Klinge trifft, verliert der Gegner für 5 Runden zwei Geschicklichkeitspunkte. Haer'Dalis setzt die Chaosklinge gerne zusammen mit ihrer Schwesternwaffe Entropie ein und wird mit beiden Waffen gemeinsam zu einem äußerst gefährlichen Gegner.
+@102 = ~Die Chaosklinge ist ein Kurzschwert +4, das nur von Haer'Dalis verwendet werden kann. Jedes Mal, wenn die Klinge trifft, verliert der Gegner fÃ¼r 5 Runden zwei Geschicklichkeitspunkte. Haer'Dalis setzt die Chaosklinge gerne zusammen mit ihrer Schwesternwaffe Entropie ein und wird mit beiden Waffen gemeinsam zu einem Ã¤uÃŸerst gefÃ¤hrlichen Gegner.
 
 EIGENSCHAFTEN:
 
-Bei jedem Treffer erleidet das Ziel für 5 Runden 2 Punkte Geschicklichkeit.
+Bei jedem Treffer erleidet das Ziel fÃ¼r 5 Runden 2 Punkte Geschicklichkeit.
 
 ETW0-Bonus: -4
 Schaden: 1W6 +4 (Stich)
 Initiativefaktor: 0
 Fertigkeit: Kurzschwert
-Typ: 1-händig
-Mindeststärke: 4
+Typ: 1-hÃ¤ndig
+MindeststÃ¤rke: 4
 
 Gewicht: 2
 
@@ -20,7 +20,7 @@ Kann nur verwendet werden von:
 
 @103 = ~Entropie~
 @113 = ~Entropie +4~
-@104 = ~Dieses Kurzschwert +4 stammt aus der Abyss und ist aus Grünstahl gefertigt. Es ist eine der Lieblingswaffen von Haer'Dalis. Das Kurzschwert verursacht bei einem Gegner, der bei seinem Rettungswurf scheitert, 3 zusätzliche Schadenspunkte durch Gift. Es kann nur von Tieflingen verwendet werden.
+@104 = ~Dieses Kurzschwert +4 stammt aus der Abyss und ist aus GrÃ¼nstahl gefertigt. Es ist eine der Lieblingswaffen von Haer'Dalis. Das Kurzschwert verursacht bei einem Gegner, der bei seinem Rettungswurf scheitert, 3 zusÃ¤tzliche Schadenspunkte durch Gift. Es kann nur von Tieflingen verwendet werden.
 
 EIGENSCHAFTEN:
 
@@ -30,8 +30,8 @@ ETW0-Bonus: -4
 Schaden: 1W6 +4 (Stich)
 Initiativefaktor: 0
 Fertigkeit: Kurzschwert
-Typ: 1-händig
-Mindeststärke: 4
+Typ: 1-hÃ¤ndig
+MindeststÃ¤rke: 4
 
 Gewicht: 2
 

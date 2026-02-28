@@ -39,13 +39,13 @@ ALWAYS
 	 *    Convert strings to UTF-8 for BGEE/BG2EE                                                    *
 	 *    No exception, everything needs to be converted                                             *
 	 * --------------------------------------------------------------------------------------------- */
-		ACTION_DEFINE_ARRAY hs#noconvert BEGIN install END
-		// any tra files used in LANGUAGE need to be reloaded after UTF-8 conversion
-		ACTION_DEFINE_ARRAY hs#reload BEGIN setup swords END
+		ACTION_DEFINE_ARRAY hs#noconvert BEGIN setup END
+		ACTION_DEFINE_ARRAY hs#reload BEGIN swords END
 
 		LAF HANDLE_CHARSETS
 			INT_VAR
 				infer_charsets = 1
+				from_utf8 = 1
 			STR_VAR
 				tra_path = EVAL ~%MOD_FOLDER%/lang~
 				noconvert_array = hs#noconvert
@@ -89,7 +89,7 @@ LANGUAGE ~Italiano (traduzione di ilot)~
 
 LANGUAGE ~Simplified Chinese (translation by Merzbau)~
          ~schinese~
-         ~swordap/lang/schinese/install.tra~
+         ~swordap/lang/schinese/setup.tra~
          ~swordap/lang/schinese/swords.tra~
 
 /* =============================== *
